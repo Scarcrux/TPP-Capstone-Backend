@@ -1,6 +1,6 @@
 # Gamer.com E-commerce Backend
 
-Demo: https://gamerdotcom.herokuapp.com/api/products
+Demo: https://gamerdotcom.herokuapp.com/api/products<br/>
 Frontend: https://github.com/Scarcrux/TTP-Capstone-Frontend/
 
 ## Stack
