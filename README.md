@@ -1,6 +1,6 @@
 # Gamer.com E-commerce Backend
 
-The frontend can be viewed here: https://github.com/Scarcrux/TTP-Capstone-Frontend/e
+The frontend can be viewed here: https://github.com/Scarcrux/TTP-Capstone-Frontend/
 
 ## Run Locally
 
